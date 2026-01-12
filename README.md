@@ -19,7 +19,10 @@ It features property listings, search filters, contact forms, and responsive des
 
 <img width="945" height="391" alt="properties_listing_page" src="https://github.com/user-attachments/assets/4e9f0d0f-1edb-49ec-b20d-2c61efd479dd" />
 
-4. Contact Page - see screenshots/contact.png
+3. About Us Page - see screenshots/About Us.png
+
+
+<img width="952" height="389" alt="About page" src="https://github.com/user-attachments/assets/cb8284e2-a8f0-4d21-bc2e-774c8fed7033" />
 
 ## Tools Used
 - WordPress (LocalWP)
