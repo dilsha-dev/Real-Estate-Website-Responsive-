@@ -5,6 +5,7 @@ This is a real estate website built with WordPress and Elementor.
 It features property listings, search filters, contact forms, and responsive design.
 
 ## Pages Screenshots
+
 1. Home Page - see screenshots/homepage.png
 
 <img width="948" height="394" alt="homepage1" src="https://github.com/user-attachments/assets/a82ef860-abfb-47d1-ac59- e04fd01ff03c" />
