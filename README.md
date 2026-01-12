@@ -14,15 +14,23 @@ It features property listings, search filters, contact forms, and responsive des
 
 <img width="949" height="353" alt="homepage3" src="https://github.com/user-attachments/assets/aaccf96d-96f3-464d-9290-4499dc9af073" />
 
+
 2. Property Listings - see screenshots/listings.png
    
 
 <img width="945" height="391" alt="properties_listing_page" src="https://github.com/user-attachments/assets/4e9f0d0f-1edb-49ec-b20d-2c61efd479dd" />
 
+
 3. About Us Page - see screenshots/About Us.png
 
 
 <img width="952" height="389" alt="About page" src="https://github.com/user-attachments/assets/cb8284e2-a8f0-4d21-bc2e-774c8fed7033" />
+
+4. Dream page - see screenshorts/Dream.png
+
+
+<img width="945" height="393" alt="dream section" src="https://github.com/user-attachments/assets/6515332e-9806-49e2-b183-f4804caa3ed0" />
+  
 
 ## Tools Used
 - WordPress (LocalWP)
