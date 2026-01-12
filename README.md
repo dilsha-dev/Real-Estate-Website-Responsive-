@@ -33,6 +33,7 @@ It features property listings, search filters, contact forms, and responsive des
   
 
 5. Comment page - see screenshorts/Comment.png
+   
 
 <img width="949" height="401" alt="comment section" src="https://github.com/user-attachments/assets/175c0dfe-1a29-46f1-b344-a66ce6f9f917" />
 
