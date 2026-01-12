@@ -8,7 +8,8 @@ It features property listings, search filters, contact forms, and responsive des
 
 1. Home Page - see screenshots/homepage.png
 
-<img width="948" height="394" alt="homepage1" src="https://github.com/user-attachments/assets/a82ef860-abfb-47d1-ac59- e04fd01ff03c" />
+
+<img width="948" height="394" alt="homepage1" src="https://github.com/user-attachments/assets/2b938eaa-3ea1-446e-872c-95ba70d82d41" />
 
 
 <img width="949" height="353" alt="homepage3" src="https://github.com/user-attachments/assets/aaccf96d-96f3-464d-9290-4499dc9af073" />
