@@ -52,7 +52,8 @@ It features property listings, search filters, contact forms, and responsive des
 7. Footer page - see screenshorts/Footer.png
 
 
-<img width="951" height="308" alt="Footer section" src="https://github.com/user-attachments/assets/f90efcbf-7d0f-4b57-ac32-c5723c40be18" />
+<img width="947" height="269" alt="Footer section" src="https://github.com/user-attachments/assets/13f8704d-bb2b-4a01-95bd-bc217f01f14e" />
+
 
 
 
