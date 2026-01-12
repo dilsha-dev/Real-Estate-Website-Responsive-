@@ -32,6 +32,34 @@ It features property listings, search filters, contact forms, and responsive des
 <img width="945" height="393" alt="dream section" src="https://github.com/user-attachments/assets/6515332e-9806-49e2-b183-f4804caa3ed0" />
   
 
+5. Comment page - see screenshorts/Comment.png
+
+<img width="949" height="401" alt="comment section" src="https://github.com/user-attachments/assets/175c0dfe-1a29-46f1-b344-a66ce6f9f917" />
+
+
+
+<img width="948" height="391" alt="dream section2" src="https://github.com/user-attachments/assets/4e594a98-d570-49a6-864b-12b87ca9f091" />
+
+
+
+6. Teams page - see screenshorts/Teams.png
+
+
+<img width="948" height="398" alt="Team section" src="https://github.com/user-attachments/assets/e245702c-1793-4602-b1ae-85487ae28208" />
+
+
+
+7. Footer page - see screenshorts/Footer.png
+
+
+<img width="951" height="308" alt="Footer section" src="https://github.com/user-attachments/assets/f90efcbf-7d0f-4b57-ac32-c5723c40be18" />
+
+
+
+
+
+
+
 ## Tools Used
 - WordPress (LocalWP)
 - Elementor Free
